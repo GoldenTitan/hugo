@@ -45,6 +45,7 @@ permalinks:
     page: /:slug/
 
 params:
+    lastmod: "2024-10-11"
     mainSections:
         - post
     featuredImageField: image
